@@ -1,4 +1,4 @@
-# Minecraft Bedrock The Hive Scoreboard @MehdiArc - Color : Blue
+# Minecraft Bedrock The Hive Scoreboard One - Default
 
 [The Hive Edited ]() !
 
