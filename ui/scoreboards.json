@@ -60,7 +60,7 @@
             {
                 "requires": "($pocket_screen)",
                 "$scoreboard_offset": [0, 20],
-                "$scoreboard_alignment": "top_middle"
+                "$scoreboard_alignment": "top_right"
             }
         ]
     },
